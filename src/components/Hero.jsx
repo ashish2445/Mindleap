@@ -3,6 +3,8 @@ import { IoArrowForwardCircleSharp } from "react-icons/io5";
 import heroImg from "../assets/hero.webp"
 import {motion} from "framer-motion"
 import {fadeIn} from '../utilis/animationVariants'
+import { IoArrowForwardCircleSharp } from "react-icons/io5";
+
 
 const Hero = () => {
   return (
